@@ -1,0 +1,5 @@
+name = "Kleos"
+description = """Kleos is a 5G telecommunication technology helping ThreeFold scale to serve the last mile in connectivity.Kleos is particularly critical in low income countries where Internet connectivity is expensive and inaccessible.
+ThreeFold technology is approved to be used within the baystations they deploy."""
+stars = 5
+url = "https://wiki.foundation.grid.tf/#/projects/kleos"
