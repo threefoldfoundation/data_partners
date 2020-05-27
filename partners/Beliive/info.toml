@@ -1,5 +1,6 @@
 name = "Beliive"
 description = "Beliive is the world's largest time bank, and a global community of people using time as the common currency to live new experiences, receive services and share value."
 stars = 5
-rank = 11
+sectionID = 1
+rank = 4
 url = "https://www.consciousinternet.org/#/projects/beliive"

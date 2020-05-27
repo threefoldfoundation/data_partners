@@ -1,5 +1,6 @@
 name = "Artheon"
 description = "The Artheon VR Museum is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Their vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe."
 stars = 5
-rank = 13
+sectionID = 1
+rank = 5
 url = "https://www.consciousinternet.org/#/projects/artheon"
